@@ -31,3 +31,7 @@ Route::get('/login', function () {
 Route::get('/product', function () {
     return view('product');
 });
+
+Route::get('/admin', function () {
+    return view('user.admin');
+});
