@@ -35,3 +35,15 @@ Route::get('/product', function () {
 Route::get('/admin', function () {
     return view('user.admin');
 });
+Route::get('/checkout2', function () {
+    return view("checkout2");
+});
+Route::get('/contact2', function () {
+    return view("contact2");
+});
+Route::get('/login2', function () {
+    return view("login2");
+});
+Route::get('/product2', function () {
+    return view("product2");
+});

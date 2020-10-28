@@ -132,7 +132,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-8">
+                            <div class="col-mTGFd-8">
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="row align-items-center">
